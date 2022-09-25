@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f14c7a55
 license: GPL-2.0
+name: trying-to-figure-stuff-out
 type: industry
+url: https://github.com/bjornwarmedal/trying-to-figure-stuff-out
 version: 6
